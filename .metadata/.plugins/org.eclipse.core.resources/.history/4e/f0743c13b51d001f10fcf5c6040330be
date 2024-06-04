@@ -1,0 +1,5 @@
+package com.enzodevjava.userdept.controllers;
+
+public class UserController {
+
+}
